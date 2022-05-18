@@ -1,0 +1,33 @@
+.contact-us{
+    background: url(../images/1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+
+}
+.about-us{
+    background: url(../images/2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.services{
+    background: url(../images/3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.center-content{
+  height: 100vh;
+  display: block;
+  margin: auto;
+  padding-top: 10rem;
+  width: 50%;
+  
+}
